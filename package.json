@@ -1,0 +1,17 @@
+{
+  "name": "roip",
+  "version": "1.0.0",
+  "description": "Voice over IP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "voip"
+  ],
+  "author": "ariston ginting",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.5.1"
+  }
+}
